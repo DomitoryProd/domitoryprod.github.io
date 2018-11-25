@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: О нас (мне.)
 permalink: /about/
 ---
 
-Рассказываем на некомерческой основе о том как улучшить жизнь себя и окружающих. 
-
-### More Information
+Рассказываю на некомерческой основе о том как улучшить можно улучшать жизнь<br><br>
 
 На данный момент в проекте только один человек, но вы всегда можете предложить что-то новенькое/присоедениться к команде:)
 
-### Contact me
+### Контакты
 
-По всем вопросам: [dimaprod@icloud.com](mailto:dimaprod@icloud.com) (Автор и основатель)
+По всем вопросам: [dimaprod@icloud.com](mailto:dimaprod@icloud.com) (Автор и основатель)<br><br>
+Так же страница в VK: vk.com/m_dimaprod.com<br>
+И Telegram: @dimaprod<br>
