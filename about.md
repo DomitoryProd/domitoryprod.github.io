@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Рассказываем на некомерческой основе о том как улучшить жизнь себя и окружающих. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+На данный момент в проекте только один человек, но вы всегда можете предложить что-то новенькое/присоедениться к команде:)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+По всем вопросам: [dimaprod@icloud.com](mailto:dimaprod@icloud.com) (Автор и основатель)
