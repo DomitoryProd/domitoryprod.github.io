@@ -1,7 +1,7 @@
 ---
-layout: page
 title: О нас (мне.)
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 Рассказываю на некомерческой основе о том как можно улучшать жизнь<br><br>
