@@ -1,0 +1,49 @@
+---
+title: Domitoryprod.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Поехавшая голова
+description: Не даёт спокойно спать
+avatar: https://github.com/DomitoryProd/domitoryprod.github.io/raw/master/images/min1.jpg
+footer-links:
+  dribbble: 
+  email: dimaprod@icloud.com
+  facebook: 
+  flickr: 
+  github: 
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: domitoryprod
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: 
+google_analytics: 
+url: 
+baseurl: 
+permalink: "/:title/"
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+sass:
+  style: expanded
+gems:
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
