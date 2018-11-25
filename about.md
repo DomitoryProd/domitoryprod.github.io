@@ -11,5 +11,5 @@ permalink: /about/
 ### Контакты
 
 По всем вопросам: [dimaprod@icloud.com](mailto:dimaprod@icloud.com) (Автор и основатель)<br><br>
-Так же страница в VK: vk.com/m_dimaprod.com<br>
-И Telegram: @dimaprod<br>
+Так же страница в VK: vk.com/m_dimaprod.com <br><br>
+И Telegram: @dimaprod
