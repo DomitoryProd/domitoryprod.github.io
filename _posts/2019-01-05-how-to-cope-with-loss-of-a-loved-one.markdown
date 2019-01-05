@@ -1,5 +1,5 @@
 ---
-title: How to cope with loss of a loved one?
+title: How to cope with loss of a loved one
 date: 2019-01-05 06:20:00 Z
 ---
 
