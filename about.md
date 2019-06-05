@@ -1,5 +1,5 @@
 ---
-title: О нас (мне.)
+title: Яяя
 permalink: "/about/"
 layout: page
 ---
