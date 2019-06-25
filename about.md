@@ -4,11 +4,10 @@ permalink: "/about/"
 layout: page
 ---
 
-Рассказываю на некомерческой основе о том как можно улучшать жизнь<br><br>
-На данный момент в проекте только один человек, но вы всегда можете предложить что-то новенькое/присоедениться к команде:)
+Это личный блог о личных вещах<br><br>
 
 ### Контакты
 
 По всем вопросам: [dimaprod@icloud.com](mailto:dimaprod@icloud.com)<br><br>
-Так же страница в VK: vk.com/m_dimaprod<br><br>
+Так же страница в VK: <a chref="vk.com/m_dimaprod">dimaprod</a><br><br>
 И Telegram: @dimaprod
