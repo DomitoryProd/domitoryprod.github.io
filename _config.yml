@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  sozdaniie-kontienta:
+    title: Создание контента
+    output: true
 name: Поехавшая голова
 description: Не даёт спокойно спать
 avatar: https://github.com/DomitoryProd/domitoryprod.github.io/raw/master/images/min1.jpg
